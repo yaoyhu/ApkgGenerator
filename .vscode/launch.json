@@ -1,0 +1,12 @@
+{
+    "configurations": [
+        {
+            "name": "Python Debugger: Python File",
+            "type": "debugpy",
+            "request": "launch",
+            "python": "/Users/yaoyhu/opt/miniconda3/envs/anki/bin/python",
+            "module": "generator",
+            "args": ["debug", "arch"]  // test words
+        }
+    ]
+}
